@@ -1,0 +1,20 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+<Preference
+    android:title="Очистить расписание"
+    android:summary="Удалить всё созданное расписание"
+    android:key="clear_schedule"/>
+    <Preference
+        android:title="Очистить посещаемость"
+        android:summary="Удалить отмечанные дни"
+        android:key="clear_attendance"/>
+    <Preference
+        android:title="Очистить заметки"
+        android:summary="Удалить все созданные заметки"
+        android:key="clear_notes"/>
+    <Preference
+        android:title="Очистить студентов"
+        android:summary="Удалить всех созданных студентов"
+        android:key="clear_student"/>
+
+</PreferenceScreen>

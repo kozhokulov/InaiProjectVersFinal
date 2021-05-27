@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inai</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="About">About</string>
+    <string name="username">USERNAME</string>
+</resources>
